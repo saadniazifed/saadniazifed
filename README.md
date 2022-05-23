@@ -7,3 +7,5 @@
 - 💬 Ask me about HTML, CSS and Javascript.
 - 📫 How to reach me: saadniazifed@gmail.com
 - ⚡ Fun fact: I have a very adaptable personality which makes me blend in any environment with different backgrounds of people.
+
+<img src = "https://github-readme-stats.vercel.app/api?username=saadniazifed">
