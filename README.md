@@ -1,4 +1,4 @@
-### Hi there, I am SaadUllah Khan Niazi. A Civil Engineer aspiring to be a Full Stack Web Developer by following The Odin Project. 👋
+### Hi there, I am SaadUllah Khan Niazi. Welcome to my Github. 👋
 
 - 🔭 I will be making a Weather App project soon.
 - 🌱 I’m currently learning Asynchronous Code.
