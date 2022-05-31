@@ -1,7 +1,7 @@
 ### Hi there, I am SaadUllah Khan Niazi. Welcome to my Github. 👋
 
-- 🔭 I will be making a Weather App project soon.
-- 🌱 I’m currently learning Asynchronous Code.
+- 🔭 I have started to make a Weather App project in the Odin Project.
+- 🌱 I’m aspiring to become a Junior Front End Developer.
 - 👯 I’m looking to collaborate on new and exciting projects.
 - 🤔 I’m looking to help fellow aspiring developers.
 - 💬 Ask me about HTML, CSS and Javascript.
