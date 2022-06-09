@@ -1,6 +1,6 @@
 ### Hi there, I am SaadUllah Khan Niazi. Welcome to my Github. 👋
 
-- 🔭 I have started the topic of Testing JavaScript in The Odin Project.
+- 🔭 I have started the BattleShip Project via Vanilla JavaScript, Unit Testing and Mocking.
 - 🌱 I’m aspiring to become a Junior Front End Developer.
 - 👯 I’m looking to collaborate on new and exciting projects.
 - 🤔 I’m looking to help fellow aspiring developers.
