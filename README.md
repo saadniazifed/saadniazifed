@@ -9,8 +9,8 @@ I graduated as a Civil Engineer in 2019 but my commitment and hunger for Web Dev
 * 🌍  I'm based in Rawalpindi, Pakistan
 * 🖥️  See my portfolio at [My Github's Odin Repository](http://https://github.com/saadniazifed?tab=repositories)
 * ✉️  You can contact me at [saadniazifed@gmail.com](mailto:saadniazifed@gmail.com)
-* 🚀  I'm currently working on [Battleship (via Unit Testing and Mocking)](http://https://github.com/saadniazifed/odin-battleship)
-* 🧠  I'm learning Unit Testing in JavaScript
+* 🚀  I'm currently working on ReactJS!
+* 🧠  I'm learning React Introduction from The Odin Project!
 * ⚡  I have a very adaptable personality which makes me blend in any environment with different backgrounds of people.
 
 ### Skills
