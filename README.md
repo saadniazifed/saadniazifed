@@ -4,7 +4,7 @@ Hi 👋 My name is SaadUllah Khan Niazi
 Aspiring MERN Stack Developer
 -----------------------------
 
-I graduated as a Civil Engineer in 2019 but my commitment and hunger for Web Development started in 2014. After 2.5 years of working at a Civil Engineering construction company, I decided to pursue Web Development (MERN Stack) as my future goal. My breakthrough came in September 2021 when I learned about The Odin Project - a free of cost project based curriculum which can be taken by anyone online. At this moment in time, I am currently using ReactJS after learning Vanilla JavaScript for 8 months. In addition to that, I will also be be learning Express, MongoDB NodeJS and TypeScript.
+I graduated as a Civil Engineer in 2019 but my commitment and hunger for Web Development started in 2014. After 2.5 years of working at a Civil Engineering construction company, I decided to pursue Web Development (MERN Stack) as my future goal. My breakthrough came in September 2021 when I learned about The Odin Project - a free of cost project based curriculum which can be taken by anyone online. At this moment in time, I am currently using ReactJS after learning Vanilla JavaScript for 8 months. In addition to that, I will also be be learning Express, MongoDB NodeJS & TypeScript.
 
 * 🌍  I'm based in Rawalpindi, Pakistan
 * 🖥️  See my portfolio at [My Github's Odin Repository](http://https://github.com/saadniazifed?tab=repositories)
