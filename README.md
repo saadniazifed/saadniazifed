@@ -31,11 +31,6 @@ My name is Saad and I am an aspiring Full-Stack Developer who is passionate abou
 <img src = "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 <img src = "https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 
-# Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadniazifed&theme=radical&show_icons=true)
 
 <!--
