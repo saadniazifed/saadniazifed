@@ -10,7 +10,6 @@ My name is Saad and I am an aspiring Full-Stack Developer who is passionate abou
 - 🔭 I’m currently learning about Firebase to integrate to my next project.
 - 💻 I'm an aspiring Full-Stack Developer!
 - 📫 How to reach me: saadniazifed@gmail.com
-- ⚡ Fun fact: My personality is adaptable. It can integrate in a new environment relatively quickly.
 
 # Top Technologies
 
