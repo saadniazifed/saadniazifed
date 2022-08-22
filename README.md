@@ -19,7 +19,8 @@
       <h3 align="center" color="white">FantasticFive</h3>
       <div align="center">  
          <a href='' target=_"blank">
-            <img src="![172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777](https://user-images.githubusercontent.com/86664192/185851707-a61dcc8f-d907-4c46-af0a-81674efe4a60.png)"/>
+          <img width="1435" alt="Screenshot 2022-08-22 at 11 17 40 AM" src="https://user-images.githubusercontent.com/86664192/185852314-2aacaa02-c7dd-4677-ac66-fa49c093b956.png">
+/>
          </a>
          <br>
          <br>
