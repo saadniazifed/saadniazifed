@@ -1,34 +1,147 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Saad and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset in the MERN Stack.
+- 🔭 My name is Saad and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset.
+- 🙆‍ I graduated university with a BSc. in Civil Engineering and have a great interest in all things related to how to solve problems effectively, great communication and supervising the staff.
+- 💻 I'm currently working on learning new ReactJS concepts to incorporate them to my Final JS Project.
+- 📫 How to reach me: saadniazifed@gmail.com
 
 📫 Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-%40saadniazifed-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadniazifed/)
 [![Mail Badge](<https://img.shields.io/badge/-saadniazifed(Gmail)-red?style=flat&labelColor=red&logo=gmail&logoColor=white>)]()
 
-- 🔭 I’m currently learning about Firebase to integrate to my next project.
-- 💻 I'm an aspiring Full-Stack Developer!
-- 📫 How to reach me: saadniazifed@gmail.com
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Projects</h2>
 
-# Top Technologies
+<table>
+<tr>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+   <td width="50%">
+      <h3 align="center" color="white">FantasticFive</h3>
+      <div align="center">  
+         <a href='' target=_"blank">
+            <img src="![172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777](https://user-images.githubusercontent.com/86664192/185851707-a61dcc8f-d907-4c46-af0a-81674efe4a60.png)"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/saadniazifed/Photo-Tagging-App" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://saadniazifed.github.io/Photo-Tagging-App/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Vue/Figma/TS</strong> — A Single Page Application (SPA) built with Vue.js. Groomify takes a great deal of inspiration from Helcim https://www.helcim.com/. Through the project's design, copywriting, and teamwork aspect I hoped to capture and reflect Helcim's culture and values, while trying my best to maintain its own identity. <em>Built with: Vue.js, TypeScript, HTML, SCSS, Figma</em></p>
+      </div>
+   </td>
+   
+   <td width="50%">
+      <h3 align="center" color="white">Portfolio</h3>
+      <div align="center">  
+         <a href='https://www.eltonbautista.com/' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/180022224-af1a45b3-308a-473e-bdde-382e6c12f6dd.png" alt="Portfolio" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/portfolio" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://www.eltonbautista.com/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>AstroJS/TypeScript</strong> — My very own portfolio! Ooo boy I've always wanted one and it's responsive.. Mostly..! Currently, it talks a bit about my, discipline, goals, etc. but also has information on who I am as an individual! I'm planning on updating it every so often with project pages, and will most likely be creating a blog section!
+            <em>Built with: AstroJS, ReactJS, TypeScript, JavaScript, HTML5, CSS5</em>
+            </p>
+      </div>
+   </td>
+   
+   </tr>
+   <tr>
+      <td width="50%">
+      <h3 align="center" color="white">clockedOut</h3>
+      <div align="center">
+         <a href="https://github.com/eltonbautista/odin-restaurant-page" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/184946194-7bd5f002-0ffa-4c80-a6a1-ce4b37662929.png" alt="clockedOut screenshot" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/clockedOut" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://clocked-out.vercel.app/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>React/TS</strong> — clockedOut is a LinkedIn clone web application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Well.. I haven't exactly implemented all of the features I initially aimed for.. <em>Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</em></p>
+      </div>
+   </td>
+   <td width="50%">
+      <h3 align="center" color="white">PTT Where's Waldo?</h3>
+      <div align="center">  
+         <a href="https://ptt-waldo.netlify.app/" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/184946429-e50937e1-8c67-4d25-aa9b-d88bcf107296.png" alt="PTT Where's Waldo" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/ptt-waldo-app" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://ptt-waldo.netlify.app/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. <em>Built with: ReactJS, Firebase, Jest, CSS3, HTML5</em></p>
+      </div>
+   </td>
+   </tr>
+    <tr>
+   <td width="50%">
+      <h3 align="center" color="white">Weather Application</h3>
+      <div align="center">  
+         <a href="https://eltonbautista.github.io/odin-weather-app/" target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/161541267-2ea13e17-ef8d-4aae-a0a2-fc4963508741.png" alt="Weather App" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/odin-weather-app" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://eltonbautista.github.io/odin-weather-app/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
+      </div>
+   </td>
 
-# Technical Skills
+<td width="50%">
+      <h3 align="center" color="white">Meemo Boutique</h3>
+      <div align="center">  
+         <a href='https://meemo-boutique.vercel.app/' target=_"blank">
+            <img src="https://user-images.githubusercontent.com/94667178/184945995-25e95c64-4192-4636-afc9-73dc2057ef18.png" alt="Meemo Boutique" width="100%"/>
+         </a>
+         <br>
+         <br>
+         <p>
+            <a href="https://github.com/eltonbautista/react-shopping-cart" target="_blank">
+               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://meemo-boutique.netlify.app/" target="_blank">
+               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
+            </a>
+         </p>
+         <p><strong>React Router</strong> — A shopping cart application that boasts a vintage, but modern neon aesthetic that is focused at uniting both  fashion lovers with old souls, and newcomers who aren't afraid to stand out and dare to be different. A multi-page application that utilizes React Router. <em>Built with: ReactJS, React Router, Jest, CSS3, HTML5</em></p>
+      </div>
+   </td>
 
-<img src="https://img.shields.io/badge/Jest-3C005A?style=for-the-badge&logo=jest&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/npm-3C005A?style=for-the-badge&logo=npm&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/Microsoft-3C005A?style=for-the-badge&logo=microsoft&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
+   </tr>
+</table>
 
-# Linters
-
-<img src = "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src = "https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadniazifed&theme=radical&show_icons=true)
 
