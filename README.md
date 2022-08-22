@@ -35,7 +35,7 @@
       </div>
       
        <td width="50%">
-      <h3 align="center" color="white">FantasticFive</h3>
+      <h3 align="center" color="white">Five Star Automotive</h3>
       <div align="center">  
          <a href='' target=_"blank">
           <img width="100%" alt="Screenshot 2022-08-22 at 11 26 07 AM" src="https://user-images.githubusercontent.com/86664192/185854478-9646ad31-9ab1-4a6f-9102-58ff2d961248.png">
@@ -44,14 +44,14 @@
          <br>
          <br>
          <p>
-            <a href="https://github.com/saadniazifed/Photo-Tagging-App" target="_blank">
+            <a href="https://github.com/saadniazifed/Shopping-Cart" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://saadniazifed.github.io/Photo-Tagging-App/" target="_blank">
+            <a href="https://saadniazifed.github.io/Shopping-Cart/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>ReactJS, HTML5, CSS3</strong> — A Photo Tagging game reminiscent of Where's Waldo. With the help of a NoSQL database via firebase's firestore is leveraged to validate targets. User is given a visual feedback if the choice they have selected is correct.</p>
+         <p><strong>ReactJS, HTML5, CSS3</strong> — A mock e-commerce application that is dedicated to selling the most beloved sports car in the world - Ferrari! It utilises the fundamental concepts of ReactJS followed by React Router to leverage multiple routes within the Single Page Application. It also includes a dynamic shopping cart and a checkout page!</p>
       </div>
    </td>
       
