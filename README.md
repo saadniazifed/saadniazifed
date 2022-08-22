@@ -20,7 +20,6 @@
       <div align="center">  
          <a href='' target=_"blank">
           <img width="1435" alt="Screenshot 2022-08-22 at 11 17 40 AM" src="https://user-images.githubusercontent.com/86664192/185852314-2aacaa02-c7dd-4677-ac66-fa49c093b956.png">
-/>
          </a>
          <br>
          <br>
@@ -32,7 +31,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Vue/Figma/TS</strong> — A Single Page Application (SPA) built with Vue.js. Groomify takes a great deal of inspiration from Helcim https://www.helcim.com/. Through the project's design, copywriting, and teamwork aspect I hoped to capture and reflect Helcim's culture and values, while trying my best to maintain its own identity. <em>Built with: Vue.js, TypeScript, HTML, SCSS, Figma</em></p>
+         <p><strong>Vue/Figma/TS</strong> — A Photo Tagging game reminiscent of Where's Waldo. With the help of a NoSQL database via firebase's firestore is leveraged to validate targets. User is given a visual feedback if the choice they have selected is correct.</p>
       </div>
    </td>
    
