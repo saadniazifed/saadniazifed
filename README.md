@@ -35,27 +35,7 @@
       </div>
    </td>
    
-   <td width="50%">
-      <h3 align="center" color="white">Portfolio</h3>
-      <div align="center">  
-         <a href='https://github.com/saadniazifed/Shopping-Cart' target=_"blank">
-<!--             <img width="100%" alt="Screenshot 2022-08-22 at 11 26 07 AM" src="https://user-images.githubusercontent.com/86664192/185853316-8bc8f99f-5faa-425b-acbc-91f137b85a27.png"> -->
 
-         </a>
-         <br>
-         <br>
-         <p>
-            <a href="https://github.com/saadniazifed/Shopping-Cart" target="_blank">
-               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://saadniazifed.github.io/Shopping-Cart/" target="_blank">
-               <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
-            </a>
-         </p>
-<!--          <p><strong>ReactJS, HTML5, CSS3</strong> — An E-Commerce mock website made with my personal passion of Ferraris! It utilizes  ReactJS and React Routing for leveraging multiple routes within a Single Page Application. It further consists of a shopping cart and a checkout page!
-            </p> -->
-      </div>
-   </td>
    
    </tr>
    <tr>
