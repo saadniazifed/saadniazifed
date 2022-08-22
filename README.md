@@ -124,24 +124,21 @@
    </td>
 
 <td width="50%">
-      <h3 align="center" color="white">Meemo Boutique</h3>
+      <h3 align="center" color="white">My Shelfie</h3>
       <div align="center">  
-         <a href='https://meemo-boutique.vercel.app/' target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/184945995-25e95c64-4192-4636-afc9-73dc2057ef18.png" alt="Meemo Boutique" width="100%"/>
+         <a href='https://github.com/saadniazifed/Library-Project' target=_"blank">
+            <img width="100%" alt="Screenshot 2022-08-22 at 12 27 27 PM" src="https://user-images.githubusercontent.com/86664192/185864414-b8995f80-a7d4-4b7a-b2ce-1c796afc58fe.png">
          </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/react-shopping-cart" target="_blank">
+            <a href="https://github.com/saadniazifed/Library-Project/" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://meemo-boutique.netlify.app/" target="_blank">
+            </a>
+            <a href="https://saadniazifed.github.io/Library-Project/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
-         </p>
-         <p><strong>React Router</strong> — A shopping cart application that boasts a vintage, but modern neon aesthetic that is focused at uniting both  fashion lovers with old souls, and newcomers who aren't afraid to stand out and dare to be different. A multi-page application that utilizes React Router. <em>Built with: ReactJS, React Router, Jest, CSS3, HTML5</em></p>
-      </div>
-   </td>
+            <p> — A Library Project in which user can add their favorite books that they have either read or not. Leverages the concepts of Object Constructors and utilises fundamental concepts of JavaScript for its functionality.<em>This project was built with: JavaScript, CSS3, and HTML5.</em></p>
 
    </tr>
 </table>
