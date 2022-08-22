@@ -19,7 +19,7 @@
       <h3 align="center" color="white">FantasticFive</h3>
       <div align="center">  
          <a href='' target=_"blank">
-          <img width="1435" alt="Screenshot 2022-08-22 at 11 17 40 AM" src="https://user-images.githubusercontent.com/86664192/185852314-2aacaa02-c7dd-4677-ac66-fa49c093b956.png">
+          <img width="100%" alt="Screenshot 2022-08-22 at 11 17 40 AM" src="https://user-images.githubusercontent.com/86664192/185852314-2aacaa02-c7dd-4677-ac66-fa49c093b956.png">
          </a>
          <br>
          <br>
@@ -39,7 +39,7 @@
       <h3 align="center" color="white">Portfolio</h3>
       <div align="center">  
          <a href='https://github.com/saadniazifed/Shopping-Cart' target=_"blank">
-            <img width="1440" alt="Screenshot 2022-08-22 at 11 26 07 AM" src="https://user-images.githubusercontent.com/86664192/185853316-8bc8f99f-5faa-425b-acbc-91f137b85a27.png">
+            <img width="100%" alt="Screenshot 2022-08-22 at 11 26 07 AM" src="https://user-images.githubusercontent.com/86664192/185853316-8bc8f99f-5faa-425b-acbc-91f137b85a27.png">
 
          </a>
          <br>
