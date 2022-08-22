@@ -101,24 +101,26 @@
    </td>
    </tr>
     <tr>
+       
    <td width="50%">
-      <h3 align="center" color="white">Weather Application</h3>
+      <h3 align="center" color="white">SteakHouse De Saad</h3>
       <div align="center">  
-         <a href="https://eltonbautista.github.io/odin-weather-app/" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/161541267-2ea13e17-ef8d-4aae-a0a2-fc4963508741.png" alt="Weather App" width="100%"/>
-         </a>
+         <a href="https://github.com/saadniazifed/the-restaurant-project" target=_"blank">
+            <img width="100%" alt="Screenshot 2022-08-22 at 12 17 03 PM" src="https://user-images.githubusercontent.com/86664192/185862285-47f835d3-868e-42ff-ab8d-9fd1b0cdf065.png">
+                 </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/odin-weather-app" target="_blank">
+            <a href="https://github.com/saadniazifed/the-restaurant-project/" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://eltonbautista.github.io/odin-weather-app/" target="_blank">
+            <a href="https://saadniazifed.github.io/the-restaurant-project/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Rest APIs</strong> — A weather application I built to practice Rest APIs, it that allows users to search for a city's current and weekly weather. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
+        <p><strong>API</strong> — A Steak-House Restaurant Project made using ES6 Modules and applying the knowledge of Webpack. It furthermore consists of using a modular approach to programming where each JavaScript file is used for one purpose. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
       </div>
+  
    </td>
 
 <td width="50%">
