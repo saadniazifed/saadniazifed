@@ -61,24 +61,25 @@
    </tr>
    <tr>
       <td width="50%">
-      <h3 align="center" color="white">clockedOut</h3>
+      <h3 align="center" color="white">Pokemon Memory Card</h3>
       <div align="center">
-         <a href="https://github.com/eltonbautista/odin-restaurant-page" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/184946194-7bd5f002-0ffa-4c80-a6a1-ce4b37662929.png" alt="clockedOut screenshot" width="100%"/>
-         </a>
+         <a href="https://github.com/saadniazifed/Pokemon-Memory-Card" target=_"blank">
+            <img width="100%" alt="Screenshot 2022-08-22 at 11 49 59 AM" src="https://user-images.githubusercontent.com/86664192/185857090-ccc083d5-7fe4-4085-aafc-ab86b7698a6e.png">
+                     </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/clockedOut" target="_blank">
+            <a href="https://github.com/saadniazifed/Pokemon-Memory-Card" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://clocked-out.vercel.app/" target="_blank">
+            <a href="https://saadniazifed.github.io/Pokemon-Memory-Card/" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>React/TS</strong> — clockedOut is a LinkedIn clone web application that focuses on the social aspects of gaming. It is a one-stop destination for creating lifetime companions, and remembering our childhood nostalgia. Well.. I haven't exactly implemented all of the features I initially aimed for.. <em>Built with: TypeScript, ReactJS, Firebase, React Router, Jest, Styled-Components, CSS3, HTML5</em></p>
+         <p><strong>ReactJS, HTML5, CSS3</strong> — A game built with ReactJS that challenges users to click each image only once while each click rearranges the displayed images. Leveraged the power of useEffect hook on this project!</p>
       </div>
    </td>
+      
    <td width="50%">
       <h3 align="center" color="white">PTT Where's Waldo?</h3>
       <div align="center">  
