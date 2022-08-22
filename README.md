@@ -31,7 +31,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>Vue/Figma/TS</strong> — A Photo Tagging game reminiscent of Where's Waldo. With the help of a NoSQL database via firebase's firestore is leveraged to validate targets. User is given a visual feedback if the choice they have selected is correct.</p>
+         <p><strong>ReactJS, HTML5, CSS3</strong> — A Photo Tagging game reminiscent of Where's Waldo. With the help of a NoSQL database via firebase's firestore is leveraged to validate targets. User is given a visual feedback if the choice they have selected is correct.</p>
       </div>
    </td>
    
