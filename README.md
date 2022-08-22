@@ -118,7 +118,7 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-        <p><strong>API</strong> — A Steak-House Restaurant Project made using ES6 Modules and applying the knowledge of Webpack. It furthermore consists of using a modular approach to programming where each JavaScript file is used for one purpose. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
+        <p> — A Steak-House Restaurant Project made using ES6 Modules and applying the knowledge of Webpack. It furthermore consists of using a modular approach to programming where each JavaScript file is used for one purpose. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
       </div>
   
    </td>
