@@ -143,6 +143,22 @@
    </tr>
 </table>
 
+<h2 align="left"><img src="https://user-images.githubusercontent.com/1689092/172069493-07c346a5-6f3b-4274-9af7-7e2cd7554777.png" height=25px>   Technical Skills</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-3C005A?style=for-the-badge&logo=html5&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/CSS3-3C005A?style=for-the-badge&logo=css3&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/JavaScript-3C005A?style=for-the-badge&logo=javascript&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Firebase-3C005A?style=for-the-badge&logo=firebase&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Figma-3C005A?style=for-the-badge&logo=figma&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/React.js-3C005A?style=for-the-badge&logo=react&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Jest-3C005A?style=for-the-badge&logo=jest&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/npm-3C005A?style=for-the-badge&logo=npm&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Node.js-3C005A?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/GIT-3C005A?style=for-the-badge&logo=git&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Linux-3C005A?style=for-the-badge&logo=linux&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/Microsoft-3C005A?style=for-the-badge&logo=microsoft&logoColor=white" height=30>
+</p>
+
 
 ![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadniazifed&theme=radical&show_icons=true)
 
