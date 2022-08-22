@@ -81,22 +81,22 @@
    </td>
       
    <td width="50%">
-      <h3 align="center" color="white">PTT Where's Waldo?</h3>
+      <h3 align="center" color="white">Overdrop</h3>
       <div align="center">  
-         <a href="https://ptt-waldo.netlify.app/" target=_"blank">
-            <img src="https://user-images.githubusercontent.com/94667178/184946429-e50937e1-8c67-4d25-aa9b-d88bcf107296.png" alt="PTT Where's Waldo" width="100%"/>
-         </a>
+         <a href="https://github.com/saadniazifed/odin-weather-app" target=_"blank">
+            <img width="100%" alt="Screenshot 2022-08-22 at 12 09 28 PM" src="https://user-images.githubusercontent.com/86664192/185860464-89d98d1f-7460-4d45-ac21-327420970a59.png">
+                 </a>
          <br>
          <br>
          <p>
-            <a href="https://github.com/eltonbautista/ptt-waldo-app" target="_blank">
+            <a href="https://github.com/saadniazifed/odin-weather-app/" target="_blank">
                <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://ptt-waldo.netlify.app/" target="_blank">
+            <a href="https://saadniazifed.github.io/odin-weather-app//" target="_blank">
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>BaaS</strong> — A photo-tagging game used to practice BaaS concepts, as well as learn security protocols, and further my knowledge on Rest APIS. The project features a custom profanity filter that I wrote myself which prevents users from adding a list of up to 450 words onto the scoreboard. <em>Built with: ReactJS, Firebase, Jest, CSS3, HTML5</em></p>
+        <p><strong>API</strong> — A weather application I built to practice asynchronous tasks in JavaScript with OpenWeather API. It allows users to search for a city's current weather, humidity levels and maximum temperature. This was my first time working with asynchronous processes, but it was a really intuitive and enjoyable experience. <em>This project was built with: JavaScript, Webpack, CSS3, and HTML5.</em></p>
       </div>
    </td>
    </tr>
