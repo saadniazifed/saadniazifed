@@ -52,8 +52,8 @@
                <img src="https://img.shields.io/badge/-demo-purple?style=for-the-badge&color=3C005A"/>
             </a>
          </p>
-         <p><strong>ReactJS, HTML5, CSS3</strong> — An E-Commerce mock website made with my personal passion of Ferraris! It utilizes  ReactJS and React Routing for leveraging multiple routes within a Single Page Application. It further consists of a shopping cart and a checkout page!
-            </p>
+<!--          <p><strong>ReactJS, HTML5, CSS3</strong> — An E-Commerce mock website made with my personal passion of Ferraris! It utilizes  ReactJS and React Routing for leveraging multiple routes within a Single Page Application. It further consists of a shopping cart and a checkout page!
+            </p> -->
       </div>
    </td>
    
