@@ -2,7 +2,6 @@
 
 - 🔭 My name is Saad and I am an aspiring Full-Stack Developer who is passionate about learning new technologies and developing my skillset.
 - 🙆‍ I graduated university with a BSc. in Civil Engineering and have a great interest in all things related to how to solve problems effectively.
-- 💻 I'm currently working on learning new ReactJS concepts to incorporate them to my Final JS Project.
 
 📫 Reach me out!
 
